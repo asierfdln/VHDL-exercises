@@ -1,2 +1,14 @@
+project[[:space:]]10/video[[:space:]]showcase[[:space:]]-[[:space:]]stopwatch.mp4 filter=lfs diff=lfs merge=lfs -text
+project[[:space:]]03[[:space:]](clock[[:space:]]logic)/project[[:space:]]03[[:space:]]showcase[[:space:]]video.mp4 filter=lfs diff=lfs merge=lfs -text
+project[[:space:]]07/project[[:space:]]07[[:space:]]showcase[[:space:]]video.mp4 filter=lfs diff=lfs merge=lfs -text
+project[[:space:]]10/video[[:space:]]showcase[[:space:]]-[[:space:]]bcd[[:space:]]conversion.mp4 filter=lfs diff=lfs merge=lfs -text
+project[[:space:]]10/video[[:space:]]showcase[[:space:]]-[[:space:]]servomotor.mp4 filter=lfs diff=lfs merge=lfs -text
+project[[:space:]]06/project[[:space:]]06[[:space:]]showcase[[:space:]]video.mp4 filter=lfs diff=lfs merge=lfs -text
+project[[:space:]]09/project[[:space:]]09[[:space:]]showcase[[:space:]]video.mp4 filter=lfs diff=lfs merge=lfs -text
+project[[:space:]]10/video[[:space:]]showcase[[:space:]]-[[:space:]]clock.mp4 filter=lfs diff=lfs merge=lfs -text
+project[[:space:]]01/project[[:space:]]01[[:space:]]showcase[[:space:]]video.mp4 filter=lfs diff=lfs merge=lfs -text
+project[[:space:]]02/project[[:space:]]02[[:space:]]showcase[[:space:]]video.mp4 filter=lfs diff=lfs merge=lfs -text
+project[[:space:]]04[[:space:]](00-99[[:space:]]counter)/project[[:space:]]04[[:space:]]showcase[[:space:]]video.mp4 filter=lfs diff=lfs merge=lfs -text
+project[[:space:]]05/project[[:space:]]05[[:space:]]showcase[[:space:]]video.mp4 filter=lfs diff=lfs merge=lfs -text
 project*/*mp4 filter=lfs diff=lfs merge=lfs -text
 */*mp4 filter=lfs diff=lfs merge=lfs -text
