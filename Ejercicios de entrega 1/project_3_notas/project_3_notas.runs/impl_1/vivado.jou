@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Feb 17 17:44:22 2020
+# Process ID: 984
+# Current directory: C:/Users/iratxe.campo/project_3_notas/project_3_notas.runs/impl_1
+# Command line: vivado.exe -log project_3_notas.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source project_3_notas.tcl -notrace
+# Log file: C:/Users/iratxe.campo/project_3_notas/project_3_notas.runs/impl_1/project_3_notas.vdi
+# Journal file: C:/Users/iratxe.campo/project_3_notas/project_3_notas.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source project_3_notas.tcl -notrace

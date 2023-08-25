@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:C:/Users/iratxe.campo/project_10_pwm/project_10_pwm.srcs/constrs_1/new/project_10_pwm.xdc rfile:../../../project_10_pwm.srcs/constrs_1/new/project_10_pwm.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:7 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN W5 [get_ports clk]
+set_property src_info {type:XDC file:1 line:81 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN U18 [get_ports btnC]
+set_property src_info {type:XDC file:1 line:96 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN J1 [get_ports {pwm_voltaje}]

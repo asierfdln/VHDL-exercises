@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Thu Mar 12 11:40:36 2020
+# Process ID: 4804
+# Current directory: C:/Users/iratxe.campo/project_10_pwm/project_10_pwm.runs/synth_1
+# Command line: vivado.exe -log project_10_pwm.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source project_10_pwm.tcl
+# Log file: C:/Users/iratxe.campo/project_10_pwm/project_10_pwm.runs/synth_1/project_10_pwm.vds
+# Journal file: C:/Users/iratxe.campo/project_10_pwm/project_10_pwm.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source project_10_pwm.tcl -notrace
